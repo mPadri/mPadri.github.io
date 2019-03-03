@@ -1,0 +1,54 @@
+.hide{
+	display: none;
+}
+
+a i{
+	font-size: 48px;
+	padding: 20px;
+	color: #fff;
+}
+a i:hover{
+	color:salmon;
+}
+a .active{
+	color:salmon;
+}
+p,h1,h6{
+	color: #fff;
+}
+
+.font{
+	font-family: "Brush Script MT", Times, serif;
+	font-size: 56px;
+	font-weight: 24px;
+}
+
+/*work*/
+
+.content{
+	border: 5px;
+	background-color: #eaeaea;
+	padding: 10px;
+	border-radius: 10px;
+}
+.tab1{
+	background-color: salmon;
+}
+.tab2{
+	background-color: #ff9933;
+}
+.tab3{
+	background-color: #33cc33;
+}
+
+
+
+.fadeIn{
+animation-duration: 3s;
+}
+.bounceInLeft{
+	animation-duration: 3s;
+}
+
+
+
